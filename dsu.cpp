@@ -1,6 +1,6 @@
 // DSU    
 // find and merge functionality 
-// lets code it out okay 
+// lets code it 
 #include<bits/stdc++.h>
 using namespace std;
  int n=5;
